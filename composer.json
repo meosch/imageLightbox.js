@@ -1,0 +1,14 @@
+{
+  "name": "meosch/imagelightbox",
+  "type": "drupal-library",
+  "description": "A JavaScript plugin for touch-friendly image lightbox. This repository is just packaging to change the name and add a composer.json file for installation with Composor for Drupal 8.",
+  "keywords": ["Drupal, library"],
+  "license": "MIT License",
+  "homepage": "https://osvaldas.info/image-lightbox-responsive-touch-friendly",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/meosch/imagelightbox/issues",
+    "source": "https://github.com/meosch/imagelightbox"
+  },
+  "require": { }
+}
