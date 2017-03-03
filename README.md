@@ -1,5 +1,5 @@
 # imageLightbox.js for Drupal 8
-This repository is just repackaging by changing the name of the repository and adding a composer.json file so it can be install on Drupal 8 with Composer.
+This repository is a repackaging by changing the name of the repository, adding install instructions and adding a composer.json file so it can be install on Drupal 8 with Composer.
 
 ## Install with composer for Drupal 8
 [composer/installers](https://github.com/composer/installers) is already a requirement of a Drupal 8 web project. It allows custom installation paths for defined project types. Currently Drupal custom modules and themes are not a **type**, however it looks like this will change. I added [oomphinc/composer-installers-extender](https://github.com/oomphinc/composer-installers-extenderhttps://github.com/oomphinc/composer-installers-extender) so that I could add new types. For libraries add a new type of **drupal-library**. In the composer.json the extra section will look something like this:
