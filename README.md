@@ -1,3 +1,6 @@
+# imageLightbox.js for Drupal 8
+This repository is just repackaging by changing the name of the repository and adding a composer.json file so it can be install on Drupal 8 with Composer.
+
 # imageLightbox.js
 A JavaScript plugin for touch-friendly image lightbox.
 
